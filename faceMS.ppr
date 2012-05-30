@@ -1,0 +1,58 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultDir=D:\Projects\project_faceMS\www
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+[Project tree]
+faceMS
+	+www
+		+includes
+			includes\head.inc
+		starter.php
+		sidebar.php
+		selector.php
+		login.php
+		index.php
+		igniter.php
+		iframe.php
+		dosearch.php
+		db.php
+		builder.php
+		arranger.php
+		ajax.php
+	-Folder
+[Open project files]
+0=igniter.php
+1=register.php
+2=index.php
+3=login.php
+4=includes\head.inc
+5=..\..\..\Users\v.marinchenko\AppData\Local\Temp\fz3temp-1\index.php
+[Selected Project Files]
+Main=
+Selected=..\..\..\Users\v.marinchenko\AppData\Local\Temp\fz3temp-1\index.php
+[igniter.php]
+TopLine=269
+Caret=24,291
+[register.php]
+TopLine=1
+Caret=1,13
+[index.php]
+TopLine=1
+Caret=5,33
+[login.php]
+TopLine=12
+Caret=12,8
+[includes\head.inc]
+TopLine=1
+Caret=5,1
+[..\..\..\Users\v.marinchenko\AppData\Local\Temp\fz3temp-1\index.php]
+TopLine=67
+Caret=77,91

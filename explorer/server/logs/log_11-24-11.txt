@@ -1,0 +1,21 @@
+11-24-11 4:36:05	127.0.0.1	INFO	admin	error	message=rename(D:\Projects\project_faceMS\www\explorer\files/Pictures/520x600.png,D:\Projects\project_faceMS\www\explorer\files/pictures/520x600.png) [<a href='function.rename'>function.rename</a>]: No such file or directory
+11-24-11 4:41:51	127.0.0.1	INFO	admin	Switch Repository	rep. id=1
+11-24-11 4:45:11	127.0.0.1	INFO	admin	Create User	user_id=b.paolo
+11-24-11 4:45:22	127.0.0.1	INFO	admin	Log Out	
+11-24-11 4:45:33	127.0.0.1	INFO	b.paolo	Log In	
+11-24-11 4:45:45	127.0.0.1	INFO	b.paolo	Log Out	
+11-24-11 4:45:50	127.0.0.1	INFO	admin	Log In	
+11-24-11 4:46:44	127.0.0.1	INFO	admin	Log Out	
+11-24-11 4:46:56	127.0.0.1	INFO	b.paolo	Log In	
+11-24-11 4:48:33	127.0.0.1	INFO	b.paolo	Create Dir	dir=/pictures/a
+11-24-11 4:48:40	127.0.0.1	INFO	b.paolo	Move	files=/pictures/a;destination=/recycle_bin
+11-24-11 4:53:46	127.0.0.1	INFO	b.paolo	error	message=You are not allowed to access this resource.
+11-24-11 5:03:46	127.0.0.1	INFO	b.paolo	error	message=You are not allowed to access this resource.
+11-24-11 5:56:32	127.0.0.1	INFO	No User	Upload File	file=/pictures/520x600.png
+11-24-11 5:58:12	127.0.0.1	INFO	No User	error	message=You are not allowed to access this resource.
+11-24-11 6:10:06	127.0.0.1	INFO	No User	error	message=You are not allowed to access this resource.
+11-24-11 6:20:49	127.0.0.1	INFO	No User	error	message=You are not allowed to access this resource.
+11-24-11 7:30:58	127.0.0.1	INFO	No User	error	message=You are not allowed to access this resource.
+11-24-11 14:13:32	127.0.0.1	INFO	No User	error	message=You are not allowed to access this resource.
+11-24-11 17:30:50	127.0.0.1	INFO	No User	error	message=You are not allowed to access this resource.
+11-24-11 17:31:02	127.0.0.1	INFO	No User	error	message=You are not allowed to access this resource.

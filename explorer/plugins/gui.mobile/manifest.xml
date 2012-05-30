@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guidriver name="ajxp_mobile" label="Mobile" description="Simple Template for Mobile">
+	<registry_contributions>
+		<client_configs uuidAttr="name">
+			<template name="mobile_extensions" element="head" position="bottom"><![CDATA[
+				<link type="text/css" rel="stylesheet" href="plugins/gui.mobile/ajxp-mobile.css" media="screen">
+				<script type="text/javascript">
+					window.ajxpMobile = true;
+					var conn = new Connexion();
+					conn._libUrl = '';
+					conn.loadLibrary('plugins/gui.mobile/ajxp-mobile.js');
+				</script>
+			]]></template>
+			<template name="main" element="ajxp_desktop" position="top"><![CDATA[
+				<div id="toolbars">
+					<div id="action_bar">
+						<div id="buttons_bar" ajxpClass="ActionsToolbar"></div>
+						<div id="locationbar_cont">
+							<div style="height: 33px;" class="separator"></div>
+							<div style="padding-top : 5px;">
+								<div id="repo_chooser" ajxpClass="RepositorySelect"></div>
+								<div id="locationBar" ajxpClass="LocationBar" ajxpOptions="{flexTo:'locationbar_cont'}"></div>
+								<div id="logging_string" ajxpClass="UserWidget"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="browser" ajxpClass="AjxpPane" ajxpOptions="{fit:'height',fitParent:'ajxp_desktop'}">					
+						<div id="content_pane" ajxpClass="FilesList" ajxpOptions="{fit:'height',fitParent:'ajxp_desktop'}" style="border: 1px solid #676965; background-color: #fff;"></div>												
+				</div>				
+				<div id="info_container" class="css_boxshadow" ajxpClass="AjxpPane" style="position:absolute;top:4%;left:2%;width:95%;height:91%;display:none;z-index:20001; border-radius: 5px 5px 5px 5px; background-color: #F1F1EF; border: 3px solid #2b70c4;">
+					<div id="info_panel_header" class="panelHeader" style="font-weight:bold;color:#2b70c4;font-size:14px;"><a class="m-2" style="float:right;" href="javascript:$('info_container').hide();">Close</a><span class="info_panel_title_span">Title</span></div>
+					<div id="info_panel" ajxpClass="InfoPanel" ajxpOptions="{fit:'height'}" class="ajxp_simple_container"></div>
+				</div>
+				<div id="mobile_actions" style="display:none"><a class="m-2" href="#">Info</a> <a class="m-2" href="#">Explore</a></div>
+			]]></template>
+			<component_config className="FilesList">
+				<property name="fixedThumbSize" value="40"/>
+				<columns switchGridMode="filelist">
+					<column messageId="1" attributeName="ajxp_label" fixedWidth="60%"/>
+					<column messageId="2" attributeName="filesize" fixedWidth="40%"/>
+				</columns>				
+			</component_config>			
+		</client_configs>
+	</registry_contributions>
+</guidriver>

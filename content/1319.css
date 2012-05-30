@@ -1,0 +1,268 @@
+
+    .leg1{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -7px;}div.legend
+    .leg2{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -27px;}div.legend
+    .leg3{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -47px;}div.legend
+    .leg4{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -67px;}div.legend
+    .leg5{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -87px;}div.legend
+    .leg6{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -108px;}div.legend
+    .leg14{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -129px;}div.legend
+    .leg15{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -151px;}div.legend
+    .leg16{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -172px;}div.legend
+    .leg17{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -193px;}div.legend
+    .leg18{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -216px;}div.legend
+    .leg19{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -238px;}div.legend
+    .leg7{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -260px;}div.legend
+    .leg8{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -273px;}div.legend
+    .leg9{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -283px;}div.legend
+    .leg10{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -296px;}div.legend
+    .leg11{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -307px;}div.legend
+    .leg12{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px -320px;}div.legend
+    .leg13{background:url(http://immagini.paginegialle.it/pgolnew/img/img_uni_percorsi_pg.gif)
+    no-repeat scroll -6px
+    -331px;}.tab-list{list-style:none;background-color:#F7F7F7;}select,input{border:0;}.tab-list
+    li{float:left;text-indent:0;list-style-image:none!important;}.tab-list
+    li:first-child{margin-right:3px;}
+    .current,.tab-list
+    .current:hover{background-color:#fff;text-decoration:none;color:#222;}.tab-list
+    .current span.bol{font-weight:normal;padding-left:3px;}.tab-list
+    span.hide-tab{display:inline-block;margin-left:3px;overflow:hidden;background:url(http://img.pgol.it/pgol/img/sprite_pg.png)
+    no-repeat -202px 6px;width:10px;text-indent:-99999px;}.tab-list .current
+    span.hide-tab{background-position:-79px 6px;}.panes
+    .col-filter{float:left;width:138px;margin-right:25px;}.panes .col-filter
+    h4{font-size:12px;}.panes .col-filter.last-filter,.panes
+    .col-filter:last-child{margin-right:0;}.panes
+    .col-filter.last-filter{margin-right:0;}.panes .col-filter.last-filter
+    h4{width:136px;}.panes .col-filter.last-filter,.panes
+    .col-filter.first-filter{width:128px;}.panes .col-filter
+    ul{list-style:none;}.panes .col-filter ul li{padding:3px 0 0 0;}.raggi
+    .radius{font-weight:bold;cursor:pointer;display:inline-block;margin-right:5px;color:#3298CC;background-color:#fff;padding:5px;border:1px
+    solid #ccc;}.raggi
+    .rag-active{color:#4d4d4e;background-color:transparent;border:1px solid
+    #fff;}.lab-filter{color:#808080;}.filter-elem{border-right:1px solid
+    #B3B2B3;padding-right:8px;}.filter-elem:last-child{border-right:0;}.filter-remove{text-indent:-10000px;display:inline-block;width:13px;height:15px;background:url(http://img.pgol.it/pgol/img/sprite_pg.png)
+    no-repeat -76px -93px;margin:0 2px 0 4px;}.filter-active{padding:18px 0
+    18px 0;border-bottom:1px solid #e6e6e6;margin:0 11px 0
+    11px;}.filter{border:1px solid #ccc;border-top:0;position:relative;}.panes
+    .first-filter{padding-left:0;}.panes .col-filter
+    a:link{text-decoration:none;}.panes .col-filter
+    span{color:#666;padding-left:3px;}.more-filter{width:160px;padding-bottom:5px;float:left;}.more-filter
+    ul{float:left;width:160px;}.more-filter ul
+    li{list-style:none;}.scrollable{position:relative;overflow:hidden;width:647px;height:177px;}.scrollable
+    .items{width:20000em;position:absolute;clear:both;}.items
+    div.page{float:left;width:629px;padding:15px 0 0 11px;}.items
+    .page.open-more-filter{padding-bottom:20px;}.scrollable
+    img{float:left;margin:20px 5px 20px
+    21px;background-color:#fff;padding:2px;border:1px solid
+    #ccc;width:100px;height:75px;-moz-border-radius:4px;-webkit-border-radius:4px;}.scrollable
+    .active{border:2px solid
+    #000;position:relative;cursor:default;}a.browse{background:url(http://img.pgol.it/pgol/img/sprite_pg.png)
+    no-repeat -104px
+    -93px;display:block;width:31px;height:18px;float:left;cursor:pointer;font-size:1px;clear:both;}a.browse{-moz-transition:margin
+    .2s ease-in;-webkit-transition:margin .2s ease-in;-o-transition:margin .2s
+    ease-in;transition:margin .2s ease-in;}a.right{background-position:-174px
+    -93px;clear:right;margin-right:13px;float:right;}a.right:hover{background-position:-174px
+    -93px;margin-right:7px;}a.right:active{background-position:-174px
+    -93px;}a.left{margin-left:13px;}a.left:hover{background-position:-104px
+    -93px;margin-left:7px;}a.left:active{background-position:-104px
+    -93px;}a.disabled{visibility:hidden;}.navi{position:absolute;left:47%;width:54px;height:20px;}.navi
+ 
+    span.formin_mask_center{background-position:0
+    -31px;background-repeat:repeat-x;}*+html .search-main .tab-search
+    li.current span.formin_mask_dx,*+html .search-main .tab-search li a
+    span.formin_mask_sx{display:block;background-position:0
+    -62px;float:left;width:14px;height:26px;}*+html .search-main .tab-search
+    li.current span.formin_mask_sx{background-position:0 -1px;}*+html .searches
+    .bord-outer{background:transparent
+    url(http://img.pgol.it/pgol/img/input-ie.png) 0
+    0;border:0!important;height:45px;width:300px;padding-right:5px;}*+html
+    .searches.from-num .bord-outer,*+html .searches.from-categ
+    .bord-outer,*+html .searches.from-address .bord-outer{background-position:0
+    -74px;width:392px;}*+html .searches .bord-outer
+    .bord-inner{border:0!important;padding-top:4px;padding-bottom:0;margin-top:6px;margin-left:4px;padding-left:10px;}*+html
+    .searches.from-num .bord-inner,*+html .searches.from-categ
+    .bord-inner,*+html .searches.from-address .bord-inner{width:348px;}*+html
+    .searches.from-num .bord-inner input,*+html .searches.from-categ
+    .bord-inner input,*+html .searches.from-address .bord-inner
+    input{width:365px;}@media \0screen{.search-main .tab-search li.current
+    span{background:transparent
+    url(http://img.pgol.it/pgol/img/bg-button-search.png)
+    no-repeat;}.search-main .tab-search li.current
+    span.formin_mask_center{background:transparent
+    url(http://img.pgol.it/pgol/img/bg-button-search.png) 0 -31px
+    repeat-x;display:inline-block;padding-left:0;padding-right:0;filter:none;}.search-main
+    .tab-search li.current span.formin_mask_dx,.search-main .tab-search
+    li.current a span.formin_mask_sx{display:block;background-position:0
+    -62px;float:left;width:14px;height:26px;}.search-main .tab-search
+    li.current a span.formin_mask_sx{background-position:0 -1px;}.searches
+    .bord-outer{background:transparent
+    url(http://img.pgol.it/pgol/img/input-ie.png) no-repeat 0
+    0;border:0!important;height:45px;width:300px;padding-right:10px;}.searches
+    .bord-outer
+    .bord-inner{border:0!important;padding-top:4px;padding-bottom:0;margin-top:6px;margin-left:4px;padding-left:10;}.searches.from-num
+    .bord-outer,.searches.from-categ .bord-outer,.searches.from-address
+    .bord-outer{background-position:0
+    -74px;width:392px;padding-left:10px;}.searches.from-num
+    .bord-inner,.searches.from-categ .bord-inner,.searches.from-address
+    .bord-inner{width:348px;}.searches.from-num .bord-inner
+    input,.searches.from-categ .bord-inner input,.searches.from-address
+    .bord-inner
+    input{width:365px;}}.formin_mask_sx,.formin_mask_dx{display:none;}.serror-box{width:334px;position:absolute;left:0;top:50px;display:block;z-index:1000;}.input-serror-box{top:35px;}.serror-box-top{width:100%;height:9px;display:block;}.serror-triangle{background:transparent
+    url("http://img.pbol.it/pbit/img/error-triangle.png") no-repeat 0
+    0;height:9px;width:22px;display:block;margin-left:44px;}* html
+    .serror-triangle{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod='image',src='http://img.pbol.it/pbit/img/error-triangle.png');}.serror-box-txt{color:#fff;width:304px;padding:10px
+    10px 20px 20px;*padding:10px 10px 5px
+    20px;background:#404040;-moz-opacity:.95;filter:alpha(opacity=95);opacity:.95;-moz-box-shadow:1px
+    1px 0 #B2B2B2;-webkit-box-shadow:1px 1px 0 #B2B2B2;box-shadow:1px 1px 0
+    #B2B2B2;line-height:16px;}.serror-close{background:transparent
+    url("http://img.pbol.it/pbit/img/serror-close.png") no-repeat 0
+    0;display:block;width:7px;height:6px;float:right;text-indent:-9999px;z-index:1000;}*
+    html
+    .serror-close{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod='image',src='http://img.pbol.it/pbit/img/serror-close.png');}.serror-box-txt
+    p{float:left;width:254px;z-index:1000;}.serror-sost-img{float:left;margin-right:20px;background:transparent
+    url("http://img.pbol.it/pbit/img/serror-img.png") no-repeat 0
+    0;width:20px;height:21px;display:block;z-index:1000;}* html
+    .serror-sost-img{background:none;filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,sizingMethod='image',src='http://img.pbol.it/pbit/img/serror-img.png');}.serror-field{padding:5px
+    10px 0 0;display:block;clear:right;*padding:0 10px 0
+    0;z-index:1000;}.serror-field .clear{clear:both;}.search-main
+    .red{color:#AD0917;}.last-tab-categorie{display:none;}.footer{clear:both;background-color:#404040;padding:0;min-height:90px;}.footer-title:after{content:".";clear:both;visibility:hidden;display:block;line-height:0;height:0;}.footer-title{zoom:1;}.footer-deco01{background:#f8f8f8;}.footer-dropdown,.footer-title{width:976px;margin:0
+    auto;}.footer-dropdown{padding-top:15px;padding-bottom:15px;}.footer-title{padding:0;position:relative;}.footer-title
+    h3{font-size:18px;color:#333;display:inline;margin:10px 20px 0
+    10px;vertical-align:top;float:left;}a.footer-title-r{float:right;color:#4D4D4D;line-height:17px;margin-top:0;font-size:14px;font-weight:bold;display:inline-block;background:transparent
+    url(http://img.pgol.it/pgol/img/footer122011.png) 100px -480px;padding:11px
+    25px 13px
+    8px;}a.footer-title-r.activated{position:relative;z-index:3;border:1px
+    solid #ccc;border-width:1px 1px 0 1px;padding-top:10px;background:#fff
+    url("http://img.pgol.it/pgol/img/footer122011.png") no-repeat 112px
+    -436px;padding-left:20px;}.footer-site{list-style-type:none;}.footer-site-box{width:221px;float:left;padding:0
+    14px;}.footer-site-box:first-child{width:206px;}.footer-site-img{float:left;}.footer-site-text{display:block;padding:10px
+    0 10px
+    0;color:#666;font-size:11px;line-height:15px;}.footer-seo{border-top:1px
+    solid #D9D9D9;margin:12px 10px;padding:15px
+    0;width:958px;clear:left;}.footer-seo-box,.footer-box{width:221px;float:left;border-right:1px
+    dotted #CCC;padding:0
+    15px;min-height:168px;height:auto!important;height:168px;}.footer-seo-box-l,.footer-box.box-first{width:206px;padding:0
+    15px 0
+    0;}.footer-seo-box-r,.footer-box.box-last{border:none;width:207px;padding:0
+    0 0
+    15px;}.footer-seo-h4{display:block;color:#333;font-size:14px;line-height:16px;float:left;margin-bottom:10px;}a.footer-seo-all{float:right;text-decoration:underline;line-height:16px;}a:hover.footer-seo-all{text-decoration:none;}.footer-seo-ul,.footer-box
+    ul{list-style-type:none;clear:both;margin-top:5px;}.footer-seo-ul
+    li{width:50%;float:left;line-height:21px;}a.footer-seo-link,a:hover.footer-seo-link,a.footer-seo-row-link,a:hover.footer-seo-row-link{color:#666;}.footer-seo-row
+    li{width:100%;display:block;float:none;}.footer-seo-h4-tools{margin-top:20px;display:block;}.copyright{padding-top:22px;padding-bottom:30px;}.copyright-deco01{width:978px;margin:0
+    auto 0
+    auto;}.copy-info{font-size:11px;color:#999;line-height:19px;}.copy-link
+    a{font-size:11px;line-height:19px;text-decoration:underline;color:#f1f1f1;}.copy-link{padding-bottom:5px;color:#999;}.copy-link
+    a:hover{text-decoration:none;}.copy-logo{margin:0
+    14px;float:left;}.footer-deco03{background:url(http://img.pgol.it/pgol/img/footer-bg.png)
+    repeat-x
+    top;}.footer-site-link,.faceb-link,.gplus-link{background:url(http://img.pgol.it/pgol/img/footer122011.png);width:190px;height:30px;display:block;text-indent:-10000px;}.footer-share-g,.footer-share-fb{display:inline-block;width:220px;height:25px;margin-top:10px;float:left;}.footer-share-g{width:90px;*width:0;*height:0;}*+html
+    .footer-title h3{float:left;}.pb-link{background-position:-68px
+    -25px;}.tc-link{background-position:-86px
+    -70px;}.scioppy-link{background-position:-90px
+    -126px;}.esperto-link{background-position:-86px
+    -176px;}.abitare-link{background-position:-47px
+    -153px;}.premium-link{background-position:-56px
+    -229px;text-indent:0;padding:7px 0 0
+    38px;color:#333!important;height:21px;font-size:18px;}.logoseat{display:inline-block;float:left;text-indent:-10000px;background:url(http://img.pgol.it/pgol/img/footer122011.png)
+    no-repeat -67px
+    -296px;width:124px;height:37px;margin-right:20px;}.footer-site-box.fb-site-box{width:190px;}.fb-site-box
+    .footer-site-text{padding-left:39px;padding-top:13px;}.tooltip-network{display:none;position:absolute;z-index:2;padding:15px
+    20px;border:1px solid
+    #ccc;right:0;top:40px;width:528px;background-color:#fff;}.tooltip-network
+    li{float:left;width:33%;list-style:none;padding:2px 0;}.popup-dialog
+    .inner-box{width:660px;color:#666;position:relative;height:auto;padding:50px
+    80px 50px 80px;background:#fff;border:solid 7px
+    #FFC709;font-size:13px;line-height:18px;}.popup-dialog .inner-box
+    h5{margin:20px 0;font-size:21px;color:#333;}.popup-dialog .inner-box
+    #dialog-film p{margin:0;}.popup-dialog .inner-box p{margin:20px
+    0;}.popup-dialog .inner-box ul{list-style:disc;}.popup-dialog .inner-box ul
+    li{margin-left:15px;}.popup-dialog
+    .overflow-inner-box{height:550px;overflow:auto;}.popup-dialog
+    h6{font-size:14px;}.overlay-footer-dialog
+    .inner-box{width:447px;}.overlay-footer-dialog{width:580px;color:#666;position:relative;height:auto;padding:50px
+    80px 50px 80px;background:#fff;border:solid 7px
+    #FFC709;font-size:13px;line-height:18px;}.overlay-footer-dialog
+    h5{margin:20px 0;font-size:21px;color:#333;}.overlay-footer-dialog
+    #dialog-film p{margin:0;}.overlay-footer-dialog p{margin:20px
+    0;}.overlay-footer-dialog ul{list-style:disc;}.overlay-footer-dialog ul
+    li{margin-left:15px;}.overlay-footer-dialog
+    h6{font-size:14px;}.overlay-footer-dialog
+    .overflow-inner-box{height:500px;}.overlay-footer-dialog
+    .privacy-inner-box{height:300px;overflow:auto;}.popup-dialog
+    #tab1,.popup-dialog #tab2,.popup-dialog
+    #tab3{padding-right:20px;}.inner-disclaimer{height:350px;overflow-y:scroll;margin-bottom:30px;}.bgdistance{margin-top:10px;}.popup-dialog#dialog-msg
+    .inner-box{padding:50px 70px 30px 70px;}.popup-dialog#dialog-msg .inner-box
+    .inner-scroll{max-height:500px;overflow-y:scroll;}.popup-dialog{top:100px!important;display:none;background:transparent
+    url(http://img.pgol.it/pgol/img/ombra-dialog-y.png) repeat-y -19px
+    0;padding:0
+    20px;}.marchi-p{font-size:11px;font-style:italic;}#errorepermypg{border:2px
+    solid #39c;}.close-dialog{display:block;width:50px;height:50px;border:1px
+    solid red;}.ombra-dialog,.popup-dialog
+    .close{display:block;position:absolute;}.popup-dialog
+    .close{top:24px;right:46px;text-indent:-10000px;padding:1px;height:18px;width:14px;height:17px;background:url(http://img.pgol.it/pgol/img/sprite_pg.png)
+    -58px -385px no-repeat;cursor:pointer;}.ombra-dialog{background:transparent
+    url(http://img.pgol.it/pgol/img/ombra-dialog.png)
+    no-repeat;width:854px;height:23px;}#dialog-msg
+    .ombra-dialog{width:410px;}.ombra1{top:-23px;left:0;background-position:-19px
+    -20px;}.ombra2{bottom:-23px;left:0;background-position:-19px
+    -843px;}.title-dialog{font-size:21px;font-weight:bold;padding-bottom:12px;margin-bottom:20px;}h4{color:#333;}.gry-btn:link,.gry-btn:visited{width:70px;color:#ccc;text-decoration:none;text-align:center;}#dialog-ul{overflow:auto;}#dialog-ul
+    ul li{list-style:none;}#dialog-ul
+    ul{width:138px;margin-right:20px;float:left;border:1px dotted
+    #d9d9d9;border-width:1px 0;}#dialog-mail{font-size:13px;}#dialog-segnala
+    .title-dialog,#dialog-mail .title-dialog{border-bottom:1px dotted
+    #d9d9d9;}#dialog-segnala label,#dialog-mail
+    label{width:140px;display:block;float:left;font-size:13px;}#dialog-segnala
+    label{font-size:18px;font-weight:bold;}#dialog-segnala .mgs-box
+    label{font-size:13px;font-weight:normal;}#dialog-segnala
+    .dialog-input,#dialog-mail .dialog-input{width:300px;padding:0
+    10px;height:17px;}.resize-captcha{width:300px;}#dialog-segnala
+    .mgs-box,#dialog-mail
+    .mgs-box,.segnala-dlg-box.segnala-captcha{position:relative;}.segnala-dlg-box.segnala-captcha
+    .focus-box-grey{top:65px;}#dialog-mail .com-input,#dialog-mail
+    .prov-input{float:left;width:170px;}#dialog-mail
+    .prov-input{width:40px;}#dialog-mail
+    .label-prov{padding-left:7px;width:60px;}#dialog-mail
+    .mail-dlg-box{clear:both;font-size:13px;}.segnala-dlg-box,.mail-dlg-box{padding-bottom:15px;}.dialog-textarea{border:1px
+    solid #ccc;*border:0 none;border:0
+    none\9;width:321px;*width:278px;width:278px\9;*height:87px;height:87px\9;padding:10px;border-radius:5px;-moz-box-shadow:0
+    4px 4px -5px rgba(0,0,0,0.4) inset;-webkit-box-shadow:0 4px 4px -5px
+    rgba(0,0,0,0.4) inset;box-shadow:0 4px 4px -5px rgba(0,0,0,0.4)
+    inset;font-family:arial;font-size:12px;color:#666;*overflow:auto;overflow:auto\9;*background:none
+    transparent;background:none
+    transparent\9;}.contDialog-textarea{*width:298px;width:298px\9;*height:107px;height:107px\9;*background:url(http://img.pgol.it/pgol/img/bgTextarea.png)
+    no-repeat transparent 0
+    0;background:url(http://img.pgol.it/pgol/img/bgTextarea.png) no-repeat
+    transparent 0 0\9;float:left;}.mail-dlg-box
+    .contFormin_text,.segnala-dlg-box
+    .contFormin_text{position:relative;}#dialog-mail .formin_text_b_body
+    input,#dialog-segnala .formin_text_b_body
+    input{border:0;}.multimail-dlg{display:inline-block;width:320px;}.dialog-error,.dialog-errorok{color:#971645;background:url(http://img.pgol.it/pgol/img/dialog-form-error.png)
+    no-repeat;width:124px;padding:0 0 0 39px;display:inline-block;}#dialog-mail
+    .dialog-error,#dialog-mail .dialog-errorok,#dialog-segnala
+    .dialog-error,#dialog-segnala
+    .dialog-errorok{position:absolute;right:-174px;top:-2px;height:21px;padding:5px
+    0 0 39px;}#dialog-mail .mgs-box .dialog-error,#dialog-mail .mgs-box
+    .dialog-errorok,#dialog-segnala .segnala-dlg-box.mgs-box
+    .dialog-error,#dialog-segnala .segnala-dlg-box.mgs-box
+    #seg_msg_msg{right:0;}#dialog-mail .dialog-errorok,#dialog-segnala
+    .dialog-errorok{color:#180;}#dialog-segnala .error-input-dlg,#dialog-mail
+    .error-input-dlg{border:1px solid
+    #971645;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;color:#971645;}#dialog-mail
+    .radio-label{float:left;width:100%;}

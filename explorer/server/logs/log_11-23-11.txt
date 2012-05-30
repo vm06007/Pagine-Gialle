@@ -1,0 +1,41 @@
+11-23-11 20:05:32	127.0.0.1	INFO	admin	Log In	
+11-23-11 20:06:58	127.0.0.1	INFO	admin	Create Dir	dir=//Pictures
+11-23-11 20:07:18	127.0.0.1	INFO	admin	Create Dir	dir=//Videos
+11-23-11 20:11:29	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:11:35	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:11:51	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:11:54	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:12:01	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:12:51	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:13:27	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:13:32	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:13:35	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:14:28	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:14:34	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:15:33	127.0.0.1	INFO	admin	Log In	
+11-23-11 20:18:58	127.0.0.1	INFO	admin	Upload File	file=/Pictures/250x150.png
+11-23-11 20:18:58	127.0.0.1	INFO	admin	Upload File	file=/Pictures/520x100.png
+11-23-11 20:18:58	127.0.0.1	INFO	admin	Upload File	file=/Pictures/520x150.png
+11-23-11 20:18:58	127.0.0.1	INFO	admin	Upload File	file=/Pictures/520x300.png
+11-23-11 20:18:59	127.0.0.1	INFO	admin	Upload File	file=/Pictures/520x600.png
+11-23-11 20:18:59	127.0.0.1	INFO	admin	Upload File	file=/Pictures/160x100.png
+11-23-11 20:21:13	127.0.0.1	INFO	admin	error	message=You are not allowed to access this resource.
+11-23-11 20:21:33	127.0.0.1	INFO	admin	error	message=You are not allowed to access this resource.
+11-23-11 20:21:54	127.0.0.1	INFO	admin	error	message=You are not allowed to access this resource.
+11-23-11 20:22:07	127.0.0.1	INFO	admin	error	message=You are not allowed to access this resource.
+11-23-11 20:23:01	127.0.0.1	INFO	admin	error	message=You are not allowed to access this resource.
+11-23-11 20:23:19	127.0.0.1	INFO	admin	error	message=You are not allowed to access this resource.
+11-23-11 20:24:50	127.0.0.1	INFO	admin	error	message=You are not allowed to access this resource.
+11-23-11 20:38:48	127.0.0.1	INFO	admin	error	message=You are not allowed to access this resource.
+11-23-11 20:49:10	127.0.0.1	INFO	admin	error	message=You are not allowed to access this resource.
+11-23-11 20:50:38	127.0.0.1	INFO	admin	Log Out	
+11-23-11 20:51:10	127.0.0.1	INFO	admin	Log In	
+11-23-11 20:55:40	127.0.0.1	INFO	shared	error	message=You are not allowed to access this resource.
+11-23-11 20:56:08	127.0.0.1	INFO	admin	Log In	
+11-23-11 20:56:08	127.0.0.1	INFO	admin	Log Out	
+11-23-11 20:56:22	127.0.0.1	INFO	admin	Log In	
+11-23-11 21:04:22	127.0.0.1	INFO	admin	error	message=You are not allowed to access this resource.
+11-23-11 21:07:55	127.0.0.1	INFO	admin	Log Out	
+11-23-11 21:08:06	127.0.0.1	INFO	admin	Log In	
+11-23-11 21:14:26	127.0.0.1	INFO	admin	error	message=You are not allowed to access this resource.
+11-23-11 21:32:24	127.0.0.1	INFO	admin	Log Out	
